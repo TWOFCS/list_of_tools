@@ -9,3 +9,7 @@ input from the community.
     * [Cycamore](https://github.com/cyclus/cycamore) - an open-source collection of agents representing facilities, institutions and regions for use in Cyclus
     * [Cymetric](https://github.com/cyclus/cymetric) - python tools to facilitate access to Cyclus output
 
+
+## Contributing your software or related tools
+
+If you would like to have your software listed here, please create a pull request with modifications to this file that include the proposed additions or updates.
